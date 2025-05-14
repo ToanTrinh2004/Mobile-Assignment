@@ -1,16 +1,6 @@
-# mobile_learn
+1. Mong muốn và định hướng sau khi học môn Lập trình thiết bị di động
+Môn học này là cơ hội để em hiểu sâu hơn về ngôn ngữ Dart và Flutter, nắm vững kỹ thuật lập trình trên nền tảng di động. Mục tiêu của em không chỉ là học để biết, mà còn phải tạo ra một ứng dụng hoàn chỉnh có thể đưa lên CH Play. Quan trọng hơn, em muốn sử dụng thành thạo Dart và Flutter để tìm kiếm cơ hội việc làm, phát triển nghề nghiệp trong lĩnh vực lập trình di động.
+2. Tương lai của lập trình di động trong 10 năm tới
+Trong vòng 10 năm tới, mình tin rằng lập trình di động sẽ phát triển mạnh mẽ. Điện thoại thông minh vẫn sẽ là thiết bị không thể thiếu, khó mà bị thay thế hoàn toàn. Hiện tại, các ứng dụng vẫn còn chiếm nhiều dung lượng dù công nghệ điện toán đám mây đã xuất hiện. Trong tương lai, các ứng dụng như game mobile, mạng xã hội có thể tích hợp cloud tốt hơn, giúp giảm dung lượng lưu trữ trên thiết bị.
+Bên cạnh đó, với sự phát triển nhanh chóng của AI, lập trình di động sẽ ngày càng mạnh hơn. AI có thể hỗ trợ lập trình viên tối ưu thời gian, tự động hóa một số quy trình, giúp tăng hiệu suất làm việc. Ngoài ra, ứng dụng di động trong tương lai có thể sẽ ngày càng cá nhân hóa hơn, mang đến trải nghiệm linh hoạt hơn cho người dùng.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
